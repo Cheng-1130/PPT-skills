@@ -1,0 +1,7 @@
+ppt-skills/
+├── main.py              # 主程序入口
+├── doc_parser.py        # 文档解析模块
+├── ppt_generator.py     # PPT生成模块
+├── config.py            # 配置文件
+├── requirements.txt     # 依赖清单
+└── README.md            # 项目说明
